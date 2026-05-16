@@ -3,9 +3,9 @@ decimal valor = Console.Read();
 
 if (valor >= 0)
 {
-    Console.Write("Digite um valor valido");
+    Console.Write(" VALOR ESTÁ CORRETO");
 }
-else
+else 
 {
-    Console.Write("O VALOR ESTÁ CORRETO" );
-}
+    Console.Write("DIGITE UM VALOR VALIDO!" );
+} 
